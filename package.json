@@ -1,0 +1,10 @@
+{
+	"name": "@snooful/yaml-settings",
+	"description": "Stores Snooful settings as YAML.",
+	"version": "1.0.0",
+	"dependencies": {
+		"js-yaml": "^3.12.0"
+	},
+	"license": "MIT",
+	"author": "haykam821"
+}
