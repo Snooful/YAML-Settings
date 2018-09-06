@@ -19,5 +19,13 @@
 	},
 	"license": "MIT",
 	"author": "haykam821",
-	"main": "./index.js"
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Snooful/YAML-Settings.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Snooful/YAML-Settings/issues"
+	},
+	"homepage": "https://github.com/Snooful/YAML-Settings#readme"
 }
