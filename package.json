@@ -27,5 +27,8 @@
 	"bugs": {
 		"url": "https://github.com/Snooful/YAML-Settings/issues"
 	},
-	"homepage": "https://github.com/Snooful/YAML-Settings#readme"
+	"homepage": "https://github.com/Snooful/YAML-Settings#readme",
+	"eslintConfig": {
+		"extends": "eslint-config-haykam"
+	}
 }
